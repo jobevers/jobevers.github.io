@@ -11,8 +11,8 @@ of my slow, systematic attempt at trying to figure out which is which.
 
 I'm going to work my way down the list of coins / tokens according to
 their market cap, which is tracked by these two sites:
-https://www.livecoinwatch.com/
-https://coinmarketcap.com/
+ * [https://www.livecoinwatch.com/](https://www.livecoinwatch.com/)
+ * [https://coinmarketcap.com/](https://coinmarketcap.com/)
 
 I'm hoping to get a sense of:
  * what is technically interesting about the coin,
